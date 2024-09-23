@@ -1,6 +1,6 @@
 /*
 
-Testing git with excited students!
+Testing git with happy & excited (slightly confused) students!
 
 */
 
